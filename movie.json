@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "director": "Bob Persichetti",
+      "year": 2018
+    },
+    {
+      "id": 3,
+      "title": "1917",
+      "director": "Sam Mendes",
+      "year": 2019
+    },
+    {
+      "id": 4,
+      "title": "Focus",
+      "director": "Glenn Ficarra",
+      "year": 2015
+    }
+  ]
+}
